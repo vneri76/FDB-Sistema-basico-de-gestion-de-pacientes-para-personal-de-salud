@@ -1,4 +1,4 @@
-# Sistema-b-sico-de-gesti-n-de-pacientes-para-personal-de-salud
+#  FBD README
 <h1 align="left">FBD - Sistema básico de gestión de pacientes para personal de salud</h1>
 
 ###
